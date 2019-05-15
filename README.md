@@ -6,7 +6,7 @@ Live Link: https://polar-atoll-44095.herokuapp.com/
 
 ![the Cave](/assets/1_theCave.PNG)
 
-##How to Use the Cave
+## How to Use the Cave
 
 Fill out a short 10 question survey 
 
